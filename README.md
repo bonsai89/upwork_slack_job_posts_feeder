@@ -5,6 +5,19 @@ The Upwork Job Feed to Slack Notifier is a Python-based automation tool designed
 
 The tool uses Selenium with `undetected-chromedriver` to scrape job details in a headless browser environment, ensuring compatibility with Upwork's dynamic web pages while minimizing detection by CAPTCHA scanners. It supports both local execution and deployment on a Virtual Private Server (VPS) such as a DigitalOcean Droplet.
 
+## Demo Video
+
+Click the thumbnail below to open the demo video in a new tab: 
+
+<div style="display: flex; justify-content: center;">
+  <a href="proposal_generator_demo.mp4" target="_blank">
+    <img src="proposal_generator_thumbnail.png" alt="Thumbnail for Binance Bot Trade Demo Video" width="600">
+  </a>
+</div>
+
+(if you are unable to view, click 'View raw' to download it: [[proposal_generator_demo.mp4](https://github.com/bonsai89/binance_trading_bot_futures/blob/main/binance_bot_trades_demo.mp4)])
+
+
 ## Features
 - **Automated Job Scraping**: Periodically fetches job postings from Upwork's job feed without requiring RSS.
 - **Custom Filtering**: Extracts key job details, including title, type (e.g., hourly or fixed-price), budget, and URL.
