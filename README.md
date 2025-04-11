@@ -10,12 +10,12 @@ The tool uses Selenium with `undetected-chromedriver` to scrape job details in a
 Click the thumbnail below to open the demo video in a new tab: 
 
 <div style="display: flex; justify-content: center;">
-  <a href="proposal_generator_demo.mp4" target="_blank">
-    <img src="proposal_generator_thumbnail.png" alt="Thumbnail for Binance Bot Trade Demo Video" width="600">
+  <a href="Upwork_job_feeder_demo.mp4" target="_blank">
+    <img src="upwork_feeder_thumbnail.png" alt="Thumbnail for Binance Bot Trade Demo Video" width="600">
   </a>
 </div>
 
-(if you are unable to view, click 'View raw' to download it: [[proposal_generator_demo.mp4](https://github.com/bonsai89/binance_trading_bot_futures/blob/main/binance_bot_trades_demo.mp4)])
+(if you are unable to view, click 'View raw' to download it: [[Upwork_job_feeder_demo.mp4](https://github.com/bonsai89/binance_trading_bot_futures/blob/main/binance_bot_trades_demo.mp4)])
 
 
 ## Features
